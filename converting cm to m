@@ -1,0 +1,5 @@
+##CONVERTING A NUMBER FROM CM TO M
+import math
+n=int(input("enter a number"))
+m=n/100
+print("your number in metres is",m)
